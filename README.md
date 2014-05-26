@@ -1,9 +1,14 @@
 PEPS
 ====
 
+Performance measurements of pre-processing tasks for PEPS Sentinels products ingestion.
+
 Hardware
 ========
-Macbook Pro 15 "
+Measurements are done on the following hardware
+* Macbook Pro 15 " (2013)
+* Intel QuadCore i7 2,0 GHz processor (6 Mo shared N3 cache)
+* 8 Go RAM DDR3L 1 600 MHz
 
 Sentinel 1
 ==========
