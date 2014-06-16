@@ -12,6 +12,8 @@ Measurements are done on the following hardware
 
 Sentinel 1
 ==========
+Des exemples de produits simulés sont accessibles [ici](http://scihub.esa.int/)
+
 **S1A_IW_SLC__1SSH_20120109T054406_20120109T054424_001889_000001_E7DE.zip**
 
 Taille du produit compréssé : 1.4 Go
@@ -61,6 +63,8 @@ Image **s1a-iw2-slc-hh-20120109t054407-20120109t054423-001889-000001-002.tiff**
 
 Sentinel 2
 ==========
+Des exemples de produits simulés sont accessibles [ici](ftp://208.49.187.169/S2_Test_Product/)
+
 **S2A_OPER_PRD_MSIL1C_PDMC_20130621T120000_R065_V20091211T165928_20091211T170025.SAFE.tar**
 
 Taille du produit compréssé : 4.1 Go
