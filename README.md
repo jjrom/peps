@@ -63,7 +63,7 @@ Image **s1a-iw2-slc-hh-20120109t054407-20120109t054423-001889-000001-002.tiff**
 
 Sentinel 2
 ==========
-Des exemples de produits simulés sont accessibles [ici](ftp://208.49.187.169/S2_Test_Product/)
+Des exemples de produits simulés sont accessibles ici - ftp://208.49.187.169/S2_Test_Product/
 
 **S2A_OPER_PRD_MSIL1C_PDMC_20130621T120000_R065_V20091211T165928_20091211T170025.SAFE.tar**
 
